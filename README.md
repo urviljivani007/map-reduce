@@ -1,2 +1,2 @@
 # map-reduce
-map reduce implementation for mit 6.284 course.
+map-reduce implementation for MIT 6.824 course.
